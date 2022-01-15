@@ -180,4 +180,13 @@ Any key pressed or mouse down goes to the Start Scene.
     - FeatherArt
     - FeatherAnimation (if time)
 
+### Gameover Scene
+  - MusicManager (if time)
+  - ControlManager
+  - SceneManager
+  - SceneUI
+    - TitleText
+    - InstructionMessage
+    - ScoreMessage
+
 ## Artwork
