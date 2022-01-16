@@ -2,7 +2,7 @@
 
 This game prototype is for Trijam #152, which involves creating a game prototype in 3 hours.
 
-The final product will be listed here << link to itch.io >>.
+The final product will be listed [here](https://www500.itch.io/warp-tag).
 
 A video of the prototype will go here << link to video >>.
 
